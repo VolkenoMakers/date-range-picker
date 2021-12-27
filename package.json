@@ -1,6 +1,6 @@
 {
   "name": "@volkenomakers/date-range-picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a react native module developped by volkeno",
   "main": "index.js",
   "scripts": {
