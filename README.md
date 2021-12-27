@@ -5,10 +5,10 @@
 ## Add it to your project
 
 - Using NPM
-  `npm install @volkenomakers/date-range-picker react-native-elements`
+  `npm install @volkenomakers/date-range-picker react-native-elements moment`
 - or:
 - Using Yarn
-  `yarn add @volkenomakers/date-range-picker react-native-elements`
+  `yarn add @volkenomakers/date-range-picker react-native-elements moment`
 
 ## Usage
 
